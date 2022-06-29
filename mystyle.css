@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
+
+/* for tag */
+h1 { color: red; }
+
+/* for id */
+#intro { color: blue; }
+
+/* for class */
+.content { color: green; }
